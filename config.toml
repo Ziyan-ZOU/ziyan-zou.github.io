@@ -46,7 +46,7 @@ metaDataFormat= "yaml"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:mail@mail.com"
+    url  = "mailto:ziyanzou@link.cuhk.edu.hk"
 
   [[params.social]]
     name = "gpg"
@@ -81,10 +81,6 @@ metaDataFormat= "yaml"
     name       = "Posts"
     url        = "post/"
 
-  [[menu.main]]
-    identifier = "wiki"
-    name       = "Wiki"
-    url        = "none"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
