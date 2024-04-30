@@ -35,7 +35,7 @@ metaDataFormat= "yaml"
   img = "IMG_1242.jpg"
   img_title = "Thanks to Christina @ wocintechchat.com for this photo."
   icon = "img/logo.png"
-  quote = "Women, they have minds, and they have souls, as well as just hearts. And they’ve got ambition, and they’ve got talent, as well as just beauty. I’m so sick of people saying that love is all a woman is fit for. -― Louisa May Alcott, Little Women"
+  quote = "Women, they have minds, and they have souls, as well as just hearts. And they’ve got ambition, and they’ve got talent, as well as just beauty. I’m so sick of people saying that love is all a woman is fit for. -- Louisa May Alcott, Little Women"
 
   licenseUrl = ""
 
@@ -66,10 +66,6 @@ metaDataFormat= "yaml"
     name       = "About me"
     url        = "about"
 
-  [[menu.main]]
-      identifier = "CV"
-      name       = "CV"
-      url        = "CV"
 
   [[menu.main]]
     identifier = "posts"
