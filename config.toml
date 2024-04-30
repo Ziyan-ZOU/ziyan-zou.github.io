@@ -35,30 +35,20 @@ metaDataFormat= "yaml"
   img = "IMG_1242.jpg"
   img_title = "Thanks to Christina @ wocintechchat.com for this photo."
   icon = "img/logo.png"
-  quote = "Women, they have minds, and they have souls, as well as just hearts. And they’ve got ambition, and they’ve got talent, as well as just beauty. I’m so sick of people saying that love is all a woman is fit for.― Louisa May Alcott, Little Women"
+  quote = "Women, they have minds, and they have souls, as well as just hearts. And they’ve got ambition, and they’ve got talent, as well as just beauty. I’m so sick of people saying that love is all a woman is fit for. -― Louisa May Alcott, Little Women"
 
   licenseUrl = ""
 
  # Social icons
-  [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/avron/gruvhugo"
 
   [[params.social]]
     name = "email"
     url  = "mailto:ziyanzou@link.cuhk.edu.hk"
 
-  [[params.social]]
-    name = "gpg"
-    url  = "https://keys.openpgp.org/"
-
+  
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
 
   [[params.social]]
     name = "linkedin"
@@ -77,9 +67,15 @@ metaDataFormat= "yaml"
     url        = "about"
 
   [[menu.main]]
+      identifier = "CV"
+      name       = "CV"
+      url        = "CV"
+
+  [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "post/"
+
 
 
 [markup]
