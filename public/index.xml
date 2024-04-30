@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>邹子妍</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent posts from on 邹子妍</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My name</title>
+      <link>http://localhost:1313/post/spell-my-name/</link>
+      <pubDate>Sun, 28 Apr 2024 23:23:47 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/spell-my-name/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;How to pronouce my name?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The IPA version of my name in Mandarin has been shown below:&lt;/p&gt;
+&lt;p&gt;邹 /tsoʊ&lt;!-- raw HTML omitted --&gt;55&lt;!-- raw HTML omitted --&gt;/ # the traditional character of my surname is &amp;ldquo;鄒&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;子 /tsɯ&lt;!-- raw HTML omitted --&gt;21&lt;!-- raw HTML omitted --&gt;/ # it contains a Mandarin half Tone3 sandhi&lt;/p&gt;
+&lt;p&gt;妍 /jɛn&lt;!-- raw HTML omitted --&gt;35&lt;!-- raw HTML omitted --&gt;/ # it means beauty which comes from my father&amp;rsquo;s 3-day efforts on looking up the dictionary after my birth&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

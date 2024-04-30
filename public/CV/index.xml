@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVs on 邹子妍</title>
+    <link>http://localhost:1313/cv/</link>
+    <description>Recent content in CVs on 邹子妍</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/cv/about-me/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/about-me/</guid>
+      <description>ZiyanZOU@link.cuhk.edu.hk&#xA;EDUCATION BACKGROUND&#xA;University of Alberta &amp;mdash; Doctor of Philosophy in Linguistics Sep 2024 –&#xA;Chinese University of Hong Kong &amp;mdash; Master of Arts Sep 2021 – Jul 2022 Major: Chinese linguistics and language acquisition&#xA;University of Science &amp;amp; Technology Beijing &amp;mdash; Bachelor of Law Sep 2016– Jun 2020 Major: Social Work&#xA;PRESENTATION&#xA;Ziyan ZOU &amp;amp; YOU Shuxiang 2023. How Gender Affects Immigrants Accents variation – An acoustic study on Hunan immigrants in Beijing.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 邹子妍</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on 邹子妍</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2024 23:23:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My name</title>
+      <link>http://localhost:1313/post/spell-my-name/</link>
+      <pubDate>Sun, 28 Apr 2024 23:23:47 +0800</pubDate>
+      <guid>http://localhost:1313/post/spell-my-name/</guid>
+      <description>How to pronouce my name?&#xA;The IPA version of my name in Mandarin has been shown below:&#xA;邹 /tsoʊ55/ # the traditional character of my surname is &amp;ldquo;鄒&amp;rdquo;&#xA;子 /tsɯ21/ # it contains a Mandarin half Tone3 sandhi&#xA;妍 /jɛn35/ # it means beauty which comes from my father&amp;rsquo;s 3-day efforts on looking up the dictionary after my birth</description>
+    </item>
+  </channel>
+</rss>

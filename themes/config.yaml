@@ -1,0 +1,46 @@
+---
+title: "鄒子妍 ZOU Ziyan "
+baseURL: "https://ziyan-zou.github.io/"
+theme: "zen"
+languageCode: "en-GB"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 20
+author:
+  name: "Ziyan ZOU"
+  url: "https://ziyan-zou.github.io/"
+  avatar: "path/to/some-image.jpg"
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "https://ziyan-zou.github.io/"
+  description: "The zen theme for Hugo example site."
+  dateformat: "2 January, 2006"
+  favicon: ""
+  feedlinks: true
+  icon: ""
+  image: ""
+  imageMaxWidth: 
+  logoWidth: 
+  mobileMenu: true
+  poweredby: true
+  realfavicongenerator: true
+  sidebar: true
+  submitted: true
+  mainSections: 
+  logo: false  
+  themeColor : E7E7E7
+  menuInHeader: false
