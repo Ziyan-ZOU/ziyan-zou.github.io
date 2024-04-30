@@ -33,9 +33,10 @@ metaDataFormat= "yaml"
   copyright = "© 2024 ziyanzou.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
   name = "ZOU Ziyan"
   img = "IMG_1242.jpg"
-  img_title = "Thanks to Christina @ wocintechchat.com for this photo."
+  
   icon = "img/logo.png"
   quote = "Women, they have minds, and they have souls, as well as just hearts. And they’ve got ambition, and they’ve got talent, as well as just beauty. I’m so sick of people saying that love is all a woman is fit for. -- Louisa May Alcott, Little Women"
+  description = ""
 
   licenseUrl = ""
 
@@ -47,12 +48,10 @@ metaDataFormat= "yaml"
 
   
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+    name = "insgram"
+    url  = "https://www.instagram.com/leviosasama?igsh=NTc4MTIwNjQ2YQ=="
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+
 
 [params.style]
   # add path to custom CSS files here
@@ -65,7 +64,6 @@ metaDataFormat= "yaml"
     identifier = "about"
     name       = "About me"
     url        = "about"
-
 
   [[menu.main]]
     identifier = "posts"
