@@ -15,11 +15,14 @@ ZiyanZOU@link.cuhk.edu.hk
 
 - **University of Science & Technology Beijing --- Bachelor of Law** *Sep 2016– Jun 2020 Major: Social Work*
 
+**PUBLICATION**
+
+- **Ziyan ZOU**, & Shuxiang YOU. 2023. How Gender Affects Immigrants Accents variation – An acoustic study on Hunan immigrants in Beijing. In *Proceedings of International Congress of Phonetic Sciences 2023*, 3646-3651. Prague, Czech.
 
 
-**PRESENTATION**
+**POSTER & PRESENTATION**
 
-- **Ziyan ZOU** & YOU Shuxiang 2023. How Gender Affects Immigrants Accents variation – An acoustic study on Hunan immigrants in Beijing. *International Congress of Phonetics Sciences 2023*
+- **Ziyan ZOU** & Shuxiang YOU. 2023. How Gender Affects Immigrants Accents variation – An acoustic study on Hunan immigrants in Beijing. *International Congress of Phonetic Sciences 2023* Prague, Czech.
 
 
 
@@ -56,7 +59,7 @@ ZiyanZOU@link.cuhk.edu.hk
 
 **WORK EXPERIENCE**
 
-- **International SOS Raffles Medical Co., Ltd.,** Patients Service ofMental Health *Oct 2020-JAN 2021*
+- **International SOS Raffles Medical Co., Ltd.,** Patients Service of Mental Health *Oct 2020-JAN 2021*
 
 	- Handle clients’ appointments booking
 	- Insurance Reimbursement
@@ -65,8 +68,8 @@ ZiyanZOU@link.cuhk.edu.hk
 
 - **Beijing Gloriousway Consulting Management Co., Ltd.,** Intern Headhunter *Jul 2018- Sep 2018*
 
-	- Used Linkin and Liepin Website to find suitable candidates for clients, mainly focused on the direction of advertising and analysis industry
+	- Used Linkedin and Liepin Website to find suitable candidates for clients, mainly focused on the direction of advertising and analysis industry
 	- Candidates communication and assistance
 	- Candidates resume modification
-	- Mainly clients: APPLE; BCG
+	- Main clients: APPLE; BCG
 

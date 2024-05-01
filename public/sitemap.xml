@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/poster/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,13 +20,7 @@
     <loc>http://localhost:1313/cv/</loc>
     <lastmod>2024-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/spell-my-name/</loc>
-    <lastmod>2024-04-28T23:23:47+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-04-28T23:23:47+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cv/gestures-and-new-information-marking/</loc>
