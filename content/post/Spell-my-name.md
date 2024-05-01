@@ -16,10 +16,10 @@ The IPA version of my name in Mandarin has been shown below:
 
 I am not rejecting *beauty* entering my life or even becoming the title of my life. Of course, comparing to other expectations (being smart/strong...), "being beatiful" for his daughter obviously is the priority to my father.
 
-I put some time to think about that is it ok for me to be a feminist as well as have the name for pursing beauty since **beauty** has been weaponized for patriachy to manipulate females. I have contemplated changing my name into "研" （same pronouciation but with the meaning of **study**). 
+I put some time on thinking about that is it ok for me to be a feminist as well as having the name for pursing beauty since **beauty** has been weaponized for patriachy to manipulate females. I have contemplated changing my name into "研" （same pronouciation but with the meaning of **study**). 
 
 Then it comes an epiphany at one day, since the **beauty** is my name, then myself is the beauty itself who holds the inalienable rights to define and shape it no matter how the culture or the public constucts the meanings. Not liking to wash my hair everyday is a form of beauty, wearing loose and baggy clothes is a form of beauty, and being unpolished is also a form of beauty.
 
 I really love my name. I hope my friends (inclouding all creatures) to know that
-I am incharge of beaufy right now, and I am more than willing to giving out my rights for you to define it. You are beautiful. I am beautiful. We are beautiful.
+I am incharge of beaufy right now, and I am more than willing to give out my rights for you to define it. You are beautiful. I am beautiful. We are beautiful.
 
