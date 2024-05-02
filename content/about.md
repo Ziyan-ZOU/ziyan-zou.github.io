@@ -38,7 +38,7 @@ ZiyanZOU@link.cuhk.edu.hk
 
 - **Research Assistant 05/2022-06/2024**
 
-	*Brain and Mind Institute of Chinese University of Hong Kong*
+	*Projects: Infants Phonological Acuqisiiton 嬰兒音系發展研究*
 
 	**PI: Prof. Regine Lai**
 	- *Language Acquisition*
