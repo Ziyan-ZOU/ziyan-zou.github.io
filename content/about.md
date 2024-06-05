@@ -30,7 +30,9 @@ ZiyanZOU@link.cuhk.edu.hk
 
 - **Languages**: Chinese (Native), English (IELTS--7.5) , Japanese (JLPT-N2)
 
-- **Data analysis**: SPSS, R , Praat,
+- **Data analysis**: SPSS, R , Praat, Python
+
+- **Interested Sports**: Achery, Bouldering
 
 
 
