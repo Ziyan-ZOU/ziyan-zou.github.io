@@ -1,4 +1,11 @@
-**Praat Tutorial**
++++
+title = '**Praat Tutorial**'
+date = 2024-06-05
+draft = false
++++
+
+
+
 
 Hi, I just stared my Praat journey and shared some summary of mine on the website. You can find the following link to if you are interested. Hope it may help you a little bit!
 
