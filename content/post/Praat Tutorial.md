@@ -7,7 +7,7 @@ draft = false
 
 
 
-Hi, I just stared my Praat journey and shared some summary of mine on the website. You can find the following link to if you are interested. Hope it may help you a little bit!
+Hi, I just stared my Praat journey and shared some summary of mine on the website. You can find the following links to watch if you are interested. Hope it may help you a little bit!
 
 1. How to draw the f0 in two ways?
 
