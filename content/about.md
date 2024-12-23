@@ -14,7 +14,7 @@ ZiyanZOU@link.cuhk.edu.hk
 - **Chinese University of Hong Kong --- Master of Arts** *Sep 2021 – Jul 2022 
 Major: Chinese linguistics and language acquisition*
 
-- **University of Science & Technology Beijing --- Bachelor of Law** *Sep 2016– Jun 2020 Major: Social Work*
+- **University of Science & Technology Beijing --- Bachelor of Law** *Sep 2016 – Jun 2020 Major: Social Work*
 
 **PUBLICATION**
 
@@ -62,6 +62,7 @@ Major: Chinese linguistics and language acquisition*
 **Awards**
 
 - **Graduate Student Recruitment Award**
+
 	- 2024 University of Alberta
 	- Amount: 5000CAD
 
