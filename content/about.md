@@ -59,7 +59,7 @@ Major: Chinese linguistics and language acquisition*
 
 
 
-**Awards**
+**AWARDS**
 
 - *2024 Graduate Student Recruitment Award*
 
