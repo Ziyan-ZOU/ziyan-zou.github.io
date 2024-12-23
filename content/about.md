@@ -58,11 +58,12 @@ Major: Chinese linguistics and language acquisition*
 	- Quantitative Analysis
 
 
+
 **Awards**
 
 - **Graduate Student Recruitment Award**
-	2024 University of Alberta
-	Amount: 5000CAD
+	- 2024 University of Alberta
+	- Amount: 5000CAD
 
 
 
