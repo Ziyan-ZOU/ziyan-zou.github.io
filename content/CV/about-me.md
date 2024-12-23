@@ -11,9 +11,11 @@ ZiyanZOU@link.cuhk.edu.hk
 
 - **University of Alberta --- Doctor of Philosophy in Linguistics** *Sep 2024 –*
 
-- **Chinese University of Hong Kong --- Master of Arts** *Sep 2021 – Jul 2022 Major: Chinese linguistics and language acquisition*
+- **Chinese University of Hong Kong --- Master of Arts** *Sep 2021 – Jul 2022 
+Major: Chinese linguistics and language acquisition*
 
-- **University of Science & Technology Beijing --- Bachelor of Law** *Sep 2016– Jun 2020 Major: Social Work*
+- **University of Science & Technology Beijing --- Bachelor of Law** *Sep 2016 – Jun 2020 
+Major: Social Work*
 
 
 
@@ -53,6 +55,10 @@ ZiyanZOU@link.cuhk.edu.hk
 	- Language attitude & Gender
 	- Quantitative Analysis
 
+
+**Awards**
+- *Doctoral Recruitment Award 5000CAD*
+	University of Alberta
 
 
 
