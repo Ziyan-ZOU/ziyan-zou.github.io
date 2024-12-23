@@ -56,6 +56,7 @@ Major: Social Work*
 	- Quantitative Analysis
 
 
+
 **Awards**
 - *Doctoral Recruitment Award 5000CAD*
 	University of Alberta
