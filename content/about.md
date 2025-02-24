@@ -29,7 +29,7 @@ Major: Chinese linguistics and language acquisition*
 
 **SKILLS**
 
-- **Languages**: Chinese (Native), English (IELTS--7.5) , Japanese (JLPT-N2)
+- **Languages**: Mandarin, Xiang Dialect (Native), English (IELTS--7.5) , Japanese (JLPT-N2)
 
 - **Data analysis**: SPSS, R , Praat, Python
 
@@ -59,7 +59,12 @@ Major: Chinese linguistics and language acquisition*
 
 
 
-**AWARDS**
+**AWARDS & GRANT**
+
+- *2025 Student Research Grant*
+
+	- China Institue, University of Alberta
+	- Amount: 1000CAD
 
 - *2024 Graduate Student Recruitment Award*
 
