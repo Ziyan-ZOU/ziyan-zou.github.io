@@ -59,11 +59,11 @@ Major: Chinese linguistics and language acquisition*
 
 
 
-**AWARDS & GRANT**
+**AWARDS & GRANTS**
 
 - *2025 Student Research Grant*
 
-	- China Institue, University of Alberta
+	- China Institute, University of Alberta
 	- Amount: 1000CAD
 
 - *2024 Graduate Student Recruitment Award*
