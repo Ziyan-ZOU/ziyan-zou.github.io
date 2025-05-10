@@ -23,7 +23,7 @@ Major: Chinese linguistics and language acquisition*
 
 **POSTER & PRESENTATION**
 
-- **Zou, Ziyan**, Anna Cey, and Juhani Järvikivi. 2025. “Changing Stereotypes: Male but Not Female Stereotype Violations Impede Sentence Processing.” *13th International Conference on the Mental Lexicon*, McGill University, Montreal, QC, Canada, June.
+- **Ziyan ZOU**, Anna Cey, and Juhani Järvikivi. 2025. “Changing Stereotypes: Male but Not Female Stereotype Violations Impede Sentence Processing.” *13th International Conference on the Mental Lexicon*, McGill University, Montreal, QC, Canada, June.
 
 
 - **Ziyan ZOU** & Shuxiang YOU. 2023. How Gender Affects Immigrants Accents variation – An acoustic study on Hunan immigrants in Beijing. [Poster presentation] *International Congress of Phonetic Sciences 2023* Prague, Czech.
