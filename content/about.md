@@ -23,7 +23,9 @@ Major: Chinese linguistics and language acquisition*
 
 **POSTER & PRESENTATION**
 
-- **Ziyan ZOU** & Shuxiang YOU. 2023. How Gender Affects Immigrants Accents variation – An acoustic study on Hunan immigrants in Beijing. *International Congress of Phonetic Sciences 2023* Prague, Czech.
+- **ZOU, Z**., Cey, A., & Järvikivi, J. (2025, June). The influence of implicit prosody on cleft sentence comprehension [Poster presentation]. 13th International Conference on the Mental Lexicon, McGill University, Montreal, QC, Canada.
+
+- **Ziyan ZOU** & Shuxiang YOU. 2023. How Gender Affects Immigrants Accents variation – An acoustic study on Hunan immigrants in Beijing. [Poster presentation] *International Congress of Phonetic Sciences 2023* Prague, Czech.
 
 
 
