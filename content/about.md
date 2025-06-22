@@ -34,15 +34,24 @@ Major: Chinese linguistics and language acquisition*
 
 - **Languages**: Mandarin, Xiang Dialect (Native), English (IELTS--7.5) , Japanese (JLPT-N2)
 
-- **Data analysis**: SPSS, R , Praat, Python
+- **Data analysis**: R, Praat, Python
 
-- **Interested Sports**: Achery, Bouldering
+- **Interested Sports**: Achery, Bouldering, Swimming
+
+
+
+**TEACHING EXPERIENCE**
+
+- **Teaching Assistant 12/2024 - 05/2025**
+
+	*Course: LING 101*
+
 
 
 
 **ACADEMIC EXPERIENCE**
 
-- **Research Assistant 05/2022-06/2024**
+- **Research Assistant 05/2022 - 06/2024**
 
 	*Projects: Infants Phonological Acuqisition 嬰兒音系發展研究*
 
@@ -52,7 +61,7 @@ Major: Chinese linguistics and language acquisition*
 	- *Artificial Grammar Learning*
 
 
-- **Student Helper 09/2021-11/2021**
+- **Student Helper 09/2021 - 11/2021**
 
 	*Sociolinguistics Project on how retroflexion affects listerner's judgements on speakers' patriotic characteristic*
 
@@ -63,6 +72,11 @@ Major: Chinese linguistics and language acquisition*
 
 
 **AWARDS & GRANTS**
+
+- *2025 Academic Travel Grant*
+
+	- Graduate Associatio, University of Alberta
+	- Amount: 500CAD
 
 - *2025 Student Research Grant*
 
