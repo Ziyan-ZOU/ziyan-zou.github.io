@@ -75,7 +75,7 @@ Major: Chinese linguistics and language acquisition*
 
 - *2025 Academic Travel Grant*
 
-	- Graduate Associatio, University of Alberta
+	- Graduate Association, University of Alberta
 	- Amount: 500CAD
 
 - *2025 Student Research Grant*
