@@ -1,6 +1,6 @@
 +++
 title = 'About me'
-date = 2024-04-29
+date = 2026-01-12
 draft = false
 +++
 
@@ -32,7 +32,7 @@ Major: Chinese linguistics and language acquisition*
 
 **SKILLS**
 
-- **Languages**: Mandarin, Xiang Dialect (Native), English (IELTS--7.5) , Japanese (JLPT-N2)
+- **Languages**: Mandarin, Xiang Dialect (Native), English (IELTS--7.5) , Japanese (JLPT-N2), Italian (A1)
 
 - **Data analysis**: R, Praat, Python
 
@@ -44,7 +44,7 @@ Major: Chinese linguistics and language acquisition*
 
 - **Teaching Assistant 12/2024 - 05/2025**
 
-	*Course: LING 101*
+	*Course: LING101 Introduction to Linguistics* , LIN205 Phonetics
 
 
 
@@ -72,6 +72,11 @@ Major: Chinese linguistics and language acquisition*
 
 
 **AWARDS & GRANTS**
+
+- *2025 Department Conference Travel Grant*
+
+	- Linguistics Department, University of Alberta
+	- Amount: 500CAD
 
 - *2025 Academic Travel Grant*
 
