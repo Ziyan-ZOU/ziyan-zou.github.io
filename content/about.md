@@ -32,7 +32,7 @@ Major: Chinese linguistics and language acquisition*
 
 **SKILLS**
 
-- **Languages**: Mandarin, Xiang Dialect (Native), English (IELTS--7.5) , Japanese (JLPT-N2), Italian (A1)
+- **Languages**: Mandarin (Native) , Xiang Dialect (Native), English (IELTS--7.5) , Japanese (JLPT-N2), Italian (A1)
 
 - **Data analysis**: R, Praat, Python
 
@@ -42,9 +42,9 @@ Major: Chinese linguistics and language acquisition*
 
 **TEACHING EXPERIENCE**
 
-- **Teaching Assistant 12/2024 - 05/2025**
+- **Teaching Assistant 12/2024 - 05/2026**
 
-	*Course: LING101 Introduction to Linguistics* , LIN205 Phonetics
+	*Course: LING101 Introduction to Linguistics , LIN205 Phonetics*
 
 
 
