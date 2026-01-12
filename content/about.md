@@ -5,7 +5,6 @@ draft = false
 +++
 
 
-ZiyanZOU@link.cuhk.edu.hk
 
 **EDUCATION BACKGROUND**
 
