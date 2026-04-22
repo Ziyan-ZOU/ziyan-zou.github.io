@@ -20,7 +20,7 @@ Major: Chinese linguistics and language acquisition*
 - **Ziyan ZOU**, & Shuxiang YOU. 2023. How Gender Affects Immigrants Accents variation – An acoustic study on Hunan immigrants in Beijing. In *Proceedings of International Congress of Phonetic Sciences 2023*, 3646-3651. Prague, Czech.
 
 
-**POSTER & PRESENTATION**
+**CONFERENCE PRESENTATION**
 
 - **Ziyan ZOU**, Anna Cey, and Juhani Järvikivi. 2025. “Changing Stereotypes: Male but Not Female Stereotype Violations Impede Sentence Processing.” *13th International Conference on the Mental Lexicon*, McGill University, Montreal, QC, Canada, June.
 
@@ -71,6 +71,11 @@ Major: Chinese linguistics and language acquisition*
 
 
 **AWARDS & GRANTS**
+
+- *2026 Academic Travel Grant*
+
+	- Graduate Assocication, University of Alberta
+	- Amount: 500CAD
 
 - *2025 Department Conference Travel Grant*
 
