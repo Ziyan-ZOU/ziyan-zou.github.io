@@ -17,10 +17,14 @@ Major: Chinese linguistics and language acquisition*
 
 **PUBLICATION**
 
+- **Zou, Z**., Arnhold, A. (2026) Prosody-syntax trade-offs in Mandarin clefts. Proc. Speech Prosody 2026, 108-112, doi: 10.21437/SpeechProsody.2026-22
+
 - **Ziyan ZOU**, & Shuxiang YOU. 2023. How Gender Affects Immigrants Accents variation – An acoustic study on Hunan immigrants in Beijing. In *Proceedings of International Congress of Phonetic Sciences 2023*, 3646-3651. Prague, Czech.
 
 
 **CONFERENCE PRESENTATION**
+
+- **Zou, Ziyan.**, Arnhold, Arnhold. 2026. "Prosody-syntax trade-offs in Mandarin clefts."  *Speech Prosody 2026*, University of Pennsylvania, Philadelphia, USA
 
 - **Ziyan ZOU**, Anna Cey, and Juhani Järvikivi. 2025. “Changing Stereotypes: Male but Not Female Stereotype Violations Impede Sentence Processing.” *13th International Conference on the Mental Lexicon*, McGill University, Montreal, QC, Canada, June.
 
