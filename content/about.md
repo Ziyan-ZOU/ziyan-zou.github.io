@@ -24,7 +24,7 @@ Major: Chinese linguistics and language acquisition*
 
 **CONFERENCE PRESENTATION**
 
-- **Zou, Ziyan.**, Arnhold, Arnhold. 2026. "Prosody-syntax trade-offs in Mandarin clefts."  *Speech Prosody 2026*, University of Pennsylvania, Philadelphia, USA
+- **Ziyan ZOU.**, Anja, Arnhold. 2026. "Prosody-syntax trade-offs in Mandarin clefts." [Talk],  *Speech Prosody 2026*, University of Pennsylvania, Philadelphia, USA
 
 - **Ziyan ZOU**, Anna Cey, and Juhani Järvikivi. 2025. “Changing Stereotypes: Male but Not Female Stereotype Violations Impede Sentence Processing.” *13th International Conference on the Mental Lexicon*, McGill University, Montreal, QC, Canada, June.
 
