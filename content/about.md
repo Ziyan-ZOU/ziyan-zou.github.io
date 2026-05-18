@@ -8,12 +8,12 @@ draft = false
 
 **EDUCATION BACKGROUND**
 
-- **University of Alberta --- Doctor of Philosophy in Linguistics** *Sep 2024 –*
+**University of Alberta --- Doctor of Philosophy in Linguistics** *Sep 2024 –*
 
-- **Chinese University of Hong Kong --- Master of Arts** *Sep 2021 – Jul 2022 
+**Chinese University of Hong Kong --- Master of Arts** *Sep 2021 – Jul 2022 
 Major: Chinese linguistics and language acquisition*
 
-- **University of Science & Technology Beijing --- Bachelor of Law** *Sep 2016 – Jun 2020 Major: Social Work*
+**University of Science & Technology Beijing --- Bachelor of Law** *Sep 2016 – Jun 2020 Major: Social Work*
 
 **PUBLICATION**
 
@@ -24,7 +24,7 @@ Major: Chinese linguistics and language acquisition*
 
 **CONFERENCE PRESENTATION**
 
-- **Ziyan ZOU.**, Anja, Arnhold. 2026. "Prosody-syntax trade-offs in Mandarin clefts." [Talk],  *Speech Prosody 2026*, University of Pennsylvania, Philadelphia, USA
+- **Ziyan ZOU.**, Anja, Arnhold. 2026. "Prosody-syntax trade-offs in Mandarin clefts." [Talk],  *Speech Prosody 2026*, University of Pennsylvania, Philadelphia, USA. **[IPA Student Award]**
 
 - **Ziyan ZOU**, Anna Cey, and Juhani Järvikivi. 2025. “Changing Stereotypes: Male but Not Female Stereotype Violations Impede Sentence Processing.” *13th International Conference on the Mental Lexicon*, McGill University, Montreal, QC, Canada, June.
 
@@ -76,11 +76,15 @@ Major: Chinese linguistics and language acquisition*
 
 **AWARDS & GRANTS**
 
-- *2026 Academic Travel Grant*
 
+- *IPA Student Awards*
+	- Speech Prosody 2026,International Phonetics Association
+	- Amount: 215USD
+
+- *2026 Academic Travel Grant*
 	- Graduate Assocication, University of Alberta
 	- Amount: 500CAD
-
+	
 - *2025 Department Conference Travel Grant*
 
 	- Linguistics Department, University of Alberta
